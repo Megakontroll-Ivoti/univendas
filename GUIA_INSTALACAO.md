@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="icon.png" alt="Univendas Icon" />
+</p>
+
 # Guia de Instalação - Univendas
 
 Este guia cobre a instalação das três versões do aplicativo:
@@ -25,8 +29,8 @@ Primeiro, desinstale a versão anterior do aplicativo.
 
 Em seguida, baixe a versão correta para o seu caso:
 
-- **Univendas (versão padrão):** [Baixar aqui](https://github.com/Megakontroll-Ivoti/univendas/releases/tag/default)
-- **Univendas Plus / Auxiliar:** [Baixar aqui](https://github.com/Megakontroll-Ivoti/univendas/releases/tag/plus)
+- **Univendas (versão padrão):** [Baixar aqui](https://github.com/Megakontroll-Ivoti/univendas/releases/latest/download/univendas-default.apk)
+- **Univendas Plus / Auxiliar:** [Baixar aqui](https://github.com/Megakontroll-Ivoti/univendas/releases/latest/download/univendas-plus.apk)
 
 Ao abrir o link, toque no arquivo `.apk` listado em **Assets** para iniciar o download. Depois, toque no arquivo baixado para instalar.
 
